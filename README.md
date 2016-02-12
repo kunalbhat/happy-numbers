@@ -1,5 +1,5 @@
 # Happy Numbers
-### A sketch for my 32nd birthday (Feb 12)
+#### A sketch for my 32nd birthday (Feb 12)
 
 > A happy number is a number defined by the following process: Starting with
 > any positive integer, replace the number by the sum of the squares of its
@@ -8,5 +8,5 @@
 > numbers for which this process ends in 1 are happy numbers, while those that
 > do not end in 1 are unhappy numbers (or sad numbers).
 
-Source - [Wikipedia](https://en.wikipedia.org/wiki/Happy_number)
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Happy_number)
 
